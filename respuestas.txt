@@ -1,2 +1,3 @@
-Respuestas a las preguntas de la practica 3
+Respuestas a las preguntas de la practica 3i
 ¿Cual es el proposito de trabjar con multiples ramas?
+¿cual es la ventaja de reorganziar (rebase)?
